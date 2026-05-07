@@ -1,0 +1,9 @@
+# CMake
+build/
+
+# vscode
+.vscode/
+
+# resources
+resources/games/*
+!resources/games/.gitkeep
